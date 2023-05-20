@@ -7,13 +7,14 @@
     "start": "vite start"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
     "axios": "^0.27.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.3.2",
+    "react-router-dom": "^6.11.2",
     "vite": "^2.9.9"
   }
 }
